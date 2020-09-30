@@ -1,4 +1,3 @@
-#include <iostream>
 IPO CHART:
 /*
 INPUT
